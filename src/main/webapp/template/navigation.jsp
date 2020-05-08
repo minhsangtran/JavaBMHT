@@ -8,8 +8,7 @@
 			<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>
 			<span class="icon-bar"></span> <span class="icon-bar"></span>
 		</button>
-		<a class="navbar-brand" href="/home?account=guest">JAVACHALLENGE
-			v1.0.1</a> <!-- FIX -->
+		<a class="navbar-brand" href="/home?account=guest">JAVAAAAAAAAA</a> <!-- FIX -->
 	</div>
 
 	<div class="navbar-default sidebar" role="navigation">
