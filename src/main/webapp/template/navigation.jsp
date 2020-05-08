@@ -24,8 +24,7 @@
 					<ul class="nav nav-second-level">
 						<li><a href="/hello"><i
 								class="glyphicon glyphicon-console"></i> HelloServlet</a></li><!-- FIX -->
-						<li><a href="/initParam"><i
-								class="glyphicon glyphicon-console"></i> InitParamServlet</a></li><!-- FIX -->
+						
 						<li><a href="/annExample"><i
 								class="glyphicon glyphicon-console"></i>
 								AnnotationExampleServlet1</a></li><!-- FIX -->
