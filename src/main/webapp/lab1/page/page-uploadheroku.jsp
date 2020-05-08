@@ -15,8 +15,8 @@
 			<div class="panel-body">
 				<div class="row">
 					<div class="col-lg-12">
-						<p>Các bạn xem ở link sau: https://tuanvumustache.com/java/java-web/huong-dan-deploy-java-len-heroku</p>
-						<p>Github: https://github.com/MustacheTuanVu/javachallenged</p>	
+						<p>https://techwithrajesh.blogspot.com/2016/01/deploying-your-spring-mvc-java.html</p>
+						
 					</div>
 				</div>
 				<!-- /.row (nested) -->
