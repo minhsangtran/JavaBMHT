@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet(urlPatterns = { "/annotationExample", "/annExample" }, initParams = {
-        @WebInitParam(name = "myname1", value = "minh sang reference from tuanvu"),
+        @WebInitParam(name = "myname1", value = "minh sang "),
         @WebInitParam(name = "myname2", value = "minh sang reference from tuan vu") })
 public class AnnotationExampleServlet extends HttpServlet {
  
